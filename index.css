@@ -1,0 +1,15 @@
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+h1,
+p {
+  text-align: center;
+}
+.col-md-3 {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+  align-items: center;
+}
